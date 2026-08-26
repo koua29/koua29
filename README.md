@@ -7,7 +7,7 @@ I build small, self-contained tools and games — mostly for the **[Bruce firmwa
 - 📈 [**GitPulse**](https://github.com/koua29/gitpulse) — a self-hosted GitHub stats dashboard (this badge is powered by it 👇).
 
 <!--GITPULSE:START-->
-📊 **378** views (14d) · ⭐ **18** stars · 🍴 **1** forks · 👥 **4** followers · across **28** repos — _via [GitPulse](https://github.com/koua29/gitpulse), updated 2026-08-25_
+📊 **361** views (14d) · ⭐ **18** stars · 🍴 **1** forks · 👥 **4** followers · across **30** repos — _via [GitPulse](https://github.com/koua29/gitpulse), updated 2026-08-26_
 <!--GITPULSE:END-->
 
 _All projects are MIT-licensed and made to run on cheap, hackable hardware._ ☕
