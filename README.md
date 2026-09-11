@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I build small, self-contained tools, games and themes — mostly for the **[Bruce firmware](https://github.com/BruceDevices/firmware)** on the **LilyGO T-Embed CC1101**, plus a SunFounder **PiDog** robot, trading robots and desktop utilities. Everything runs on cheap, hackable hardware.
+I build small, self-contained tools, games and themes — mostly for the **[Bruce firmware](https://github.com/BruceDevices/firmware)** on the **LilyGO T-Embed CC1101**, plus a SunFounder **PiDog** robot, **Steam Deck / SteamOS** plugins, trading robots and desktop utilities. Everything runs on cheap, hackable hardware.
 
 <!--GITPULSE:START-->
 📊 **448** views (14d) · ⭐ **32** stars · 🍴 **1** forks · 👥 **7** followers · across **34** repos — _via [GitPulse](https://github.com/koua29/gitpulse), updated 2026-09-11_
@@ -64,6 +64,11 @@ Defensive / authorized-testing tools, JS with picto UI.
 |---|---|
 | [ollama-image-studio](https://github.com/koua29/ollama-image-studio) | Native Electron app: local image & 3D-model generation (Hunyuan3D MLX) |
 | [bluetooth-radar](https://github.com/koua29/bluetooth-radar) | Bluetooth radar — detect nearby devices, alerts by MAC/UUID/name |
+
+### 🕹️ Steam Deck / SteamOS
+| Repo | What it is |
+|---|---|
+| [decky-fsg](https://github.com/koua29/decky-fsg) | FSG — Free Steam Game: Decky Loader plugin that lists Steam free-to-keep games and adds them to your library (auto-claim, in-app updates) |
 
 ### 📈 Trading & dev tools
 | Repo | What it is |
