@@ -69,6 +69,7 @@ Defensive / authorized-testing tools, JS with picto UI.
 | Repo | What it is |
 |---|---|
 | [decky-fsg](https://github.com/koua29/decky-fsg) | FSG — Free Steam Game: Decky Loader plugin that lists Steam free-to-keep games and adds them to your library (auto-claim, in-app updates) |
+| [decky-stwebsrv](https://github.com/koua29/decky-stwebsrv) | STWebSRV — Steam Web Server: Decky Loader plugin that starts a password-protected web file manager on SteamOS (QR code, upload/download, editor, themes, in-app updates). WebUI adapted from Bruce |
 
 ### 📈 Trading & dev tools
 | Repo | What it is |
