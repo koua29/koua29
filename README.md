@@ -3,7 +3,7 @@
 I build small, self-contained tools, games and themes — mostly for the **[Bruce firmware](https://github.com/BruceDevices/firmware)** on the **LilyGO T-Embed CC1101**, plus a SunFounder **PiDog** robot, **Steam Deck / SteamOS** plugins, trading robots and desktop utilities. Everything runs on cheap, hackable hardware.
 
 <!--GITPULSE:START-->
-📊 **604** views (14d) · ⭐ **49** stars · 🍴 **1** forks · 👥 **8** followers · across **36** repos — _via [GitPulse](https://github.com/koua29/gitpulse), updated 2026-09-14_
+📊 **623** views (14d) · ⭐ **49** stars · 🍴 **1** forks · 👥 **8** followers · across **36** repos — _via [GitPulse](https://github.com/koua29/gitpulse), updated 2026-09-15_
 <!--GITPULSE:END-->
 
 ---
