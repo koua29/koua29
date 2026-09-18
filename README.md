@@ -76,6 +76,7 @@ Defensive / authorized-testing tools, JS with picto UI.
 |---|---|
 | [mt5-export-ticks](https://github.com/koua29/mt5-export-ticks) | MetaTrader 5 script: full tick export to CSV (beats the 131072 limit) |
 | [gitpulse](https://github.com/koua29/gitpulse) | Self-hosted GitHub traffic & popularity dashboard (powers the badge above) |
+| [leboncoin-mcp](https://github.com/koua29/leboncoin-mcp) | MCP server letting an AI agent search Leboncoin classifieds — 10x lighter on tokens |
 
 ---
 
