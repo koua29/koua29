@@ -1,5 +1,7 @@
 ### Hi 👋
 
+<p align="center">🇺🇸 <b>English</b> · 🇫🇷 <a href="README.fr.md">Français</a></p>
+
 I build small, self-contained tools, games and themes — mostly for the **[Bruce firmware](https://github.com/BruceDevices/firmware)** on the **LilyGO T-Embed CC1101**, plus a SunFounder **PiDog** robot, **Steam Deck / SteamOS** plugins, trading robots and desktop utilities. Everything runs on cheap, hackable hardware.
 
 <!--GITPULSE:START-->
