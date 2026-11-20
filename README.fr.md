@@ -81,6 +81,29 @@ Outils défensifs / de test autorisé, en JS avec interface à pictos.
 | [gitpulse](https://github.com/koua29/gitpulse) | Tableau de bord auto-hébergé du trafic & de la popularité GitHub (alimente le badge ci-dessus) |
 | [leboncoin-mcp](https://github.com/koua29/leboncoin-mcp) | Serveur MCP permettant à un agent IA de chercher des annonces Leboncoin — 10× plus léger en tokens |
 
+## 🛒 Matériel bidouillable
+
+*Liens partenaires Amazon : si vous achetez via ces liens, le projet touche une petite commission, sans surcoût pour vous.*
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.amazon.fr/dp/B0D45MSMJR?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0D45MSMJR.jpg" width="200" alt="Batterie Anker 545 (10 000 mAh)"></a><br>
+  <b><a href="https://www.amazon.fr/dp/B0D45MSMJR?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl">Batterie Anker 545 (10 000 mAh)</a></b><br><sub>De quoi faire tourner un T-Embed ou un Pi loin d'une prise</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.fr/dp/B0C1FCZM94?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0C1FCZM94.jpg" width="200" alt="Antenne SMA 433 MHz (lot de 2)"></a><br>
+  <b><a href="https://www.amazon.fr/dp/B0C1FCZM94?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl">Antenne SMA 433 MHz (lot de 2)</a></b><br><sub>Antenne sub-GHz pour la radio CC1101</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.fr/dp/B0B7NVMBPL?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0B7NVMBPL.jpg" width="200" alt="microSD SanDisk 64 Go (lot de 2)"></a><br>
+  <b><a href="https://www.amazon.fr/dp/B0B7NVMBPL?linkCode=ll2&amp;tag=koua29profile-21&amp;ref_=as_li_ss_tl">microSD SanDisk 64 Go (lot de 2)</a></b><br><sub>Pour thèmes, scripts, captures et images Pi</sub>
+</td>
+</tr>
+</table>
+
+<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.</sub>
+
 ---
 
 _La plupart des projets sont sous licence MIT et faits pour tourner sur du matériel bon marché et bidouillable._ ☕
