@@ -81,6 +81,29 @@ Defensive / authorized-testing tools, JS with picto UI.
 | [gitpulse](https://github.com/koua29/gitpulse) | Self-hosted GitHub traffic & popularity dashboard (powers the badge above) |
 | [leboncoin-mcp](https://github.com/koua29/leboncoin-mcp) | MCP server letting an AI agent search Leboncoin classifieds — 10x lighter on tokens |
 
+## 🛒 Hackable hardware
+
+*Amazon affiliate links: if you buy through these links, the project earns a small commission at no extra cost to you.*
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/B0D45MSMJR?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0D45MSMJR.jpg" width="200" alt="Anker 545 power bank (10,000 mAh)"></a><br>
+  <b><a href="https://www.amazon.com/dp/B0D45MSMJR?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl">Anker 545 power bank (10,000 mAh)</a></b><br><sub>Keeps a T-Embed or Pi running away from an outlet</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/B0C1FCZM94?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0C1FCZM94.jpg" width="200" alt="433 MHz SMA antenna (2-pack)"></a><br>
+  <b><a href="https://www.amazon.com/dp/B0C1FCZM94?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl">433 MHz SMA antenna (2-pack)</a></b><br><sub>Sub-GHz antenna for the CC1101 radio</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/B0B7NVMBPL?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl"><img src="assets/amazon-B0B7NVMBPL.jpg" width="200" alt="SanDisk 64 GB microSD (2-pack)"></a><br>
+  <b><a href="https://www.amazon.com/dp/B0B7NVMBPL?linkCode=ll2&amp;tag=koua29profile-20&amp;ref_=as_li_ss_tl">SanDisk 64 GB microSD (2-pack)</a></b><br><sub>For themes, scripts, captures and Pi images</sub>
+</td>
+</tr>
+</table>
+
+<sub>As an Amazon Associate I earn from qualifying purchases.</sub>
+
 ---
 
 _Most projects are MIT-licensed and made to run on cheap, hackable hardware._ ☕
